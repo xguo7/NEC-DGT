@@ -26,3 +26,21 @@ to test a model,edit the FLAGS "--type" to "test" and:
 
                python main.py             
 
+## Outputs
+There are several different outputs to store the generated edges and nodes.
+
+`O_t.npy` contains the nodes attributes of the generated target graphs.
+
+`O_x.npy` contains the nodes attributes of the input graphs.
+
+`O_y.npy` contains the nodes attributes of the real target graphs.
+
+`Ra_t.npy` contains the edge attributes of the generated target graphs.
+
+`Ra_x.npy` contains the edge attributes of the input graphs.
+
+`Ra_y.npy` contains the edge attributes of the real target graphs.
+
+
+## Evaluation
+The evaluation is atomatically done and print out at the end of the test process.
