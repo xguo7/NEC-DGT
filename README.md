@@ -1,5 +1,5 @@
 # NEC-DGT
-![image](http://github.com/xguo7/NEC-DGT/NEC-DGT.png)
+![image_text](images/NEC-DGT.png)
 This is the implementation and supplemental materials for paper "Deep Multi-attributed Graph Translation with Node-Edge Co-evolution"
 
 
