@@ -9,6 +9,9 @@ The relevant paper is ["Deep Multi-attributed Graph Translation with Node-Edge C
 ## Installation
 Install Tensorflow following the instuctions on the official website. The code has been tested over Tensorflow 1.13.1 version.
 
+## Datasets
+
+The dataset can be found and downloaded at [Datasets for Deep Graph Translation](https://github.com/xguo7/Dataset-for-Deep-Graph-Translation).
 
 ## Code Description
 
