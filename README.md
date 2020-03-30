@@ -11,7 +11,9 @@ Install Tensorflow following the instuctions on the official website. The code h
 
 ## Datasets
 
-The dataset can be found and downloaded at [Datasets for Deep Graph Translation](https://github.com/xguo7/Dataset-for-Deep-Graph-Translation).
+The dataset can be found and downloaded at [Datasets for Deep Graph Translation](https://github.com/xguo7/Dataset-for-Deep-Graph-Translation). The datasets used here are IoT datasets, B-A datasets, and E-R datasets.
+
+For directly using datasets to run the code without modifying the format, please find datasets [here](https://exchangelabsgmu-my.sharepoint.com/:f:/g/personal/xguo7_masonlive_gmu_edu/EjeDXlB-jEZJhgnGOjPhqoIB95eEaeiOOQRNSvZswwmkzQ?e=ZULOhr).
 
 ## Code Description
 
